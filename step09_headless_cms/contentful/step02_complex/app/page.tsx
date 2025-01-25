@@ -1,4 +1,3 @@
-{/* @ts-expect-error Async Server Component */}
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
@@ -6,7 +5,7 @@ import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 const inter = Inter({ subsets: ['latin'] })
 
 async function getBlogs() {
-  const res = await fetch(`https://cdn.contentful.com/spaces/${process.env.CONTENTFUL_SPACE_ID}/entries?access_token=${process.env.CONTENTFUL_ACCESS_KEY}&content_type=blog`, { cache: 'no-store' });
+  const res = await fetch(`https://cdn.contentful.com/spaces/z5hnl8szj944/environments/master/entries/5CO5SdvqL8L3rSmHzGoRCg?access_token=cOcH4xur71tGCOtOs2K3EsqNNrN4fOAAHjrhglAa2qk`, { cache: 'no-store' });
   
   // Recommendation: handle errors
   if (!res.ok) {
