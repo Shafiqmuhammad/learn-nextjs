@@ -1,12 +1,10 @@
 # Details
 
-[useState](https://react.dev/reference/react/useState)
-
 [Thinking in React](https://react.dev/learn/thinking-in-react)
 
 [Describing the UI](https://react.dev/learn/describing-the-ui)
 
-[Adding Interactivity](https://react.dev/learn/adding-interactivity)
+[State as a Snapshot](https://react.dev/learn/state-as-a-snapshot)
 
 [Suspense](https://react.dev/reference/react/Suspense)
 
@@ -16,4 +14,8 @@
 
 [useEffect](https://react.dev/reference/react/useEffect)
 
+[Mastering React's useEffect](https://www.youtube.com/watch?v=dH6i3GurZW8)
+
 [useContext](https://react.dev/reference/react/useContext)
+
+[useContext for better state management!](https://dev.to/hey_yogini/usecontext-for-better-state-management-51hi)

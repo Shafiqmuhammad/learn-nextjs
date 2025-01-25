@@ -1,17 +1,16 @@
 # Learn Modern Web Development using Next.js 13 in Baby Steps
 
+[Must Read: Web Development in 2023: JavaScript Still Rules, AI Emerges](https://thenewstack.io/web-development-in-2023-javascript-still-rules-ai-emerges/)
+
 Next.js Conf Keynote Announcing Version 13 :
 
 [<img src="next13.png" width="75%">](https://www.youtube.com/watch?v=NiknNI_0J48 "Keynote Next.js 13")
 
 [The Future of the Web: From Cloud to Edge](https://www.youtube.com/watch?v=HlXLVb3QCvQ)
 
-
-### [Next.js 13 Beta Docs](https://beta.nextjs.org/docs/getting-started)
+### [Next.js 13 Docs](https://nextjs.org/docs)
 
 Before going forward check out this [directory of headless ecommerce stores that excel at both Design and Performance]. Also check out the [tools they are using](https://theheadlessclub.com/tools)
-
-
 
 The stack used in this learning repo, it is a mixture of [Jamstack](https://jamstack.org/) and [T3](https://create.t3.gg/) Stacks:
 [TypeScript](https://www.typescriptlang.org/),
